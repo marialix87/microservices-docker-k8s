@@ -1,0 +1,15 @@
+{
+  "name": "api-service",
+  "version": "1.0.0",
+  "description": "Microservicio API en Node.js con Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0"
+  },
+  "author": "marialix87",
+  "license": "MIT"
+}
