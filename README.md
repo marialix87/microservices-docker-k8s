@@ -91,5 +91,25 @@ Mejorar el auth-service.
 Configurar CI/CD con GitHub Actions (archivo ya creado en .github/workflows).
 Documentación visual en un PDF (con capturas y explicación detallada del proceso).
 
+### 🚀 Futuras mejoras
+
+- Añadir un `frontend-service` para consumir el API y visualizar los datos.
+- Configurar CI/CD con GitHub Actions para automatizar tests y despliegues.
+- Usar Ingress Controller (como Traefik o NGINX) para manejar rutas más limpias.
+- Mejorar la seguridad con Secrets y Service Accounts personalizados.
+- Escribir tests unitarios y de integración para cada servicio.
+
+---
+
+### 📚 Aprendizajes
+
+Este proyecto me permitió:
+
+- Entender la diferencia entre contenerización y orquestación.
+- Aplicar buenas prácticas de estructura en proyectos con microservicios.
+- Aprender a usar `kubectl`, `docker-compose`, volúmenes y variables de entorno.
+- Subir y versionar mi código en GitHub de forma clara y profesional.
+
+
 👩‍💻 Autor
 Proyecto desarrollado por Marialix87 como parte de mi formación en DevOps y desarrollo backend con microservicios.
