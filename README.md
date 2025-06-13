@@ -93,7 +93,7 @@ Documentación visual en un PDF (con capturas y explicación detallada del proce
 
 ### 🚀 Futuras mejoras
 
-- Añadir un `frontend-service` para consumir el API y visualizar los datos.
+- Agregar un `frontend-service` para consumir el API y visualizar los datos.
 - Configurar CI/CD con GitHub Actions para automatizar tests y despliegues.
 - Usar Ingress Controller (como Traefik o NGINX) para manejar rutas más limpias.
 - Mejorar la seguridad con Secrets y Service Accounts personalizados.
