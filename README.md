@@ -110,6 +110,8 @@ Este proyecto me permitió:
 - Aprender a usar `kubectl`, `docker-compose`, volúmenes y variables de entorno.
 - Subir y versionar mi código en GitHub de forma clara y profesional.
 
+👉 [Ver documentación final en PDF](./Final-laboratorio.pdf)
+  
 
 👩‍💻 Autor
 Proyecto desarrollado por Marialix87 como parte de mi formación en DevOps y desarrollo backend con microservicios.
