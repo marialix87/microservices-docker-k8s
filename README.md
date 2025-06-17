@@ -110,7 +110,7 @@ Este proyecto me permitió:
 - Aprender a usar `kubectl`, `docker-compose`, volúmenes y variables de entorno.
 - Subir y versionar mi código en GitHub de forma clara y profesional.
 
-👉 [Ver documentación final en PDF](./Final-laboratorio.pdf)
+👉 [Ver documentación final en PDF](./microservicios-docker-kubernetes.pdf)
   
 
 👩‍💻 Autor
